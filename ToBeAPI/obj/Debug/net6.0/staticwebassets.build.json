@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "hSPu0vDZowOZ0NXwg6UKSWl+E2elXdAkOuYVLBjGxcQ=",
+  "Source": "ToBeAPI",
+  "BasePath": "_content/ToBeAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "D:\\ALEX\\STUDY\\SocialWeb\\ToBeAPI\\ToBeAPI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ToBeAPI.styles.css",
+      "SourceId": "ToBeAPI",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\ALEX\\STUDY\\SocialWeb\\ToBeAPI\\ToBeAPI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/ToBeAPI",
+      "RelativePath": "ToBeAPI.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\ALEX\\STUDY\\SocialWeb\\ToBeAPI\\ToBeAPI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ToBeAPI.styles.css"
+    },
+    {
+      "Identity": "D:\\ALEX\\STUDY\\SocialWeb\\ToBeAPI\\ToBeAPI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ToBeAPI.bundle.scp.css",
+      "SourceId": "ToBeAPI",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\ALEX\\STUDY\\SocialWeb\\ToBeAPI\\ToBeAPI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/ToBeAPI",
+      "RelativePath": "ToBeAPI.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\ALEX\\STUDY\\SocialWeb\\ToBeAPI\\ToBeAPI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ToBeAPI.bundle.scp.css"
+    }
+  ]
+}
